@@ -1,0 +1,3 @@
+101|Ilham|Gryffindor|100|100|5
+102|Cahyo|Hufflepuff|70|80|3
+103|Saputro|Ravenclaw|30|40|1

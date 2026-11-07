@@ -1,0 +1,4 @@
+<--- LAPORAN KELAS REMEDIAL (Total Mana < 150) --->
+ID   Nama              Asrama         Total Mana     
+-------------------------------------------------------
+103  Saputro           Ravenclaw      80             
